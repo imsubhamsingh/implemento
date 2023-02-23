@@ -1,2 +1,2 @@
 # implemento
-Basic Implementation of some real world softwares
+Basic data structure implementation of some real world softwares.
